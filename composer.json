@@ -17,9 +17,9 @@
     }
   ],
   "require": {
+    "composer/composer": "@alpha",
     "magento/magento-composer-installer": "*",
-    "magento/project-community-edition": "2.2.*",
-    "echoecho/magento-2-module-example": "dev-master"
+    "magento/product-community-edition": "2.1.8"
   },
   "require-dev": {
     "phpunit/phpunit": "4.1.0",
