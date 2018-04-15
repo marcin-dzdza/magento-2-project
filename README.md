@@ -1,1 +1,1 @@
-Magento2 project
+Magento 2 project
