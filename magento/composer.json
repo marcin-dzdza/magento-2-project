@@ -61,5 +61,13 @@
   "prefer-stable": true,
   "extra": {
     "magento-force": "override"
+  },
+  "scripts": {
+    "post-install-cmd": [
+      "chmod 775 bin/magento"
+    ],
+    "post-update-cmd": [
+      "chmod 775 bin/magento"
+    ]
   }
 }
