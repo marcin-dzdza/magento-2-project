@@ -1,6 +1,5 @@
 magento/*
 !magento/composer.json
-!magento/composer.lock
 !magento/app
 magento/app/*
 !magento/app/code
