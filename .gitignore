@@ -5,3 +5,4 @@ magento/app/*
 !magento/app/code
 magento/app/code/*
 !magento/app/code/EchoEcho
+.idea
